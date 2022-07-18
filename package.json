@@ -1,0 +1,24 @@
+{
+  "name": "typescript_practice",
+  "version": "1.0.0",
+  "description": "「プロを目指す人のための TypeScript 入門」用のリポジトリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toshiakisan1127/TypeScript_Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toshiakisan1127/TypeScript_Practice/issues"
+  },
+  "homepage": "https://github.com/toshiakisan1127/TypeScript_Practice#readme",
+  "devDependencies": {
+    "@types/node": "^18.0.6",
+    "typescript": "^4.7.4"
+  }
+}
